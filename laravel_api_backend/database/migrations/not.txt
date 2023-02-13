@@ -1,0 +1,2 @@
+courses model ve  tablosu application olarak değiştirildi
+homepage etc model tablosuna video ve review kısımları deahil edilmedi

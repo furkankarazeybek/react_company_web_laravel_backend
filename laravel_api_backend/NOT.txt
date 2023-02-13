@@ -1,0 +1,2 @@
+information: refund: data_project kolonu 
+charts: x_data: technology ve y_data: projeler kolonu değiştirildi
